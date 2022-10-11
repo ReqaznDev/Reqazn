@@ -18,5 +18,5 @@
   !🪐
   </h1>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/935640234698346586?idleMessage=house+is+on+fire!)](https://discord.com/users/935640234698346586)
+[![Discord Presence](https://lanyard.cnrad.dev/api/935640234698346586)](https://discord.com/users/935640234698346586)
 </div>
