@@ -14,9 +14,9 @@
   <a id="" class="anchor" aria-hidden="true" href="#">
     </a>
 		 Hey!, I'm 
-    <a href="https://discord.gg/Ev3zWZkCZx">Reqazn</a>
+    <a href="https://discord.com/users/935640234698346586">Reqazn</a>
   !🪐
   </h1>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/766336320624132226?idleMessage=floating+in+space!)](https://discord.com/users/935640234698346586)
+[![Discord Presence](https://lanyard.cnrad.dev/api/935640234698346586?idleMessage=room+is+on+fire!)](https://discord.gg/Ev3zWZkCZx)
 </div>
